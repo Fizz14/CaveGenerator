@@ -1,0 +1,41 @@
+#contains all the variables you could tinker to change how the program makes random caves.
+
+0.2 # clogged hole chance
+0 # Waterwraith chance to fall after 300 seconds
+0.2 # Gate chance per level
+
+0.3 #Easy enemy chance
+0.6 #Medium enemy chance
+0.1 #Hard enemy chance
+
+E: #Easy enemies
+Kochappy
+Tank
+Wtank
+Catfish
+Tadpole
+Mar
+Egg
+LeafChappy
+ShijimiChou
+
+M: #Medium enemies
+Chappy
+Hiba
+GasHiba
+ElecHiba
+Frog
+Bomb
+Kabuto
+
+H: #Hard enemies
+Queen
+SnakeCrow
+KumaChappy
+Damagumo
+BigFoot
+SnakeWhole
+UmiMushi
+OniKurage
+MiniHoudai
+DangoMushi

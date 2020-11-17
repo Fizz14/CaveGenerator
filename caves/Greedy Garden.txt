@@ -1,0 +1,285 @@
+# CaveInfo
+{
+	{c000} 4 5 	# SublevelCount
+	{_eof}
+}
+5 # FloorInfo 
+{
+	{f000} 4 0 # CurrentSublevelIndex
+	{f001} 4 0 # CurrentSublevelIndex
+	{f002} 4 4 # EntityTotal
+	{f003} 4 1 # TreasureTotal
+	{f004} 4 1 # GateTotal
+	{f005} 4 1 # RoomTotal
+	{f006} 4 0.12 # CorridorRatio
+	{f007} 4 0 # Geyser
+	{f008} -1 1_ABE_manp_boss_conc.txt # UnitFile
+	{f009} -1 normal_light_lv0.ini # LightFile
+	{f00A} -1 none # Skybox
+	{f010} 4 0 # CloggedHole
+	{f011} 4 0 # Unknown
+	{f012} 4 0 # MusicType
+	{f013} 4 0 # SolidPlane
+	{f014} 4 50 # DeadEndTotal
+	{f015} 4 1 # Version
+	{f016} 4 0 # WaterwraithTimer
+	{f017} 4 0 # Seesaw
+	{_eof}
+# TekiInfo
+{
+	4 # num
+	ElecHiba 10 # weight
+	1 # type
+	ElecHiba 10 # weight
+	0 # type
+	Chappy 10 # weight
+	1 # type
+	Bomb 10 # weight
+	0 # type
+}
+# ItemInfo
+{
+	1 # num
+	gum_tape 10 # weight
+}
+# GateInfo
+{
+	1 # num
+	gate 3000 # life
+	1 # weight
+}
+# CapInfo
+{
+	0 # num
+}
+# FloorInfo 
+{
+	{f000} 4 1 # CurrentSublevelIndex
+	{f001} 4 1 # CurrentSublevelIndex
+	{f002} 4 14 # EntityTotal
+	{f003} 4 1 # TreasureTotal
+	{f004} 4 1 # GateTotal
+	{f005} 4 1 # RoomTotal
+	{f006} 4 0.12 # CorridorRatio
+	{f007} 4 0 # Geyser
+	{f008} -1 1_MAT_danh_conc.txt # UnitFile
+	{f009} -1 normal_light_lv0.ini # LightFile
+	{f00A} -1 none # Skybox
+	{f010} 4 0 # CloggedHole
+	{f011} 4 0 # Unknown
+	{f012} 4 0 # MusicType
+	{f013} 4 0 # SolidPlane
+	{f014} 4 50 # DeadEndTotal
+	{f015} 4 1 # Version
+	{f016} 4 0 # WaterwraithTimer
+	{f017} 4 0 # Seesaw
+	{_eof}
+# TekiInfo
+{
+	14 # num
+	Frog 10 # weight
+	1 # type
+	Chappy 10 # weight
+	0 # type
+	Bomb 10 # weight
+	1 # type
+	Chappy 10 # weight
+	0 # type
+	Hiba 10 # weight
+	0 # type
+	ElecHiba 10 # weight
+	0 # type
+	ElecHiba 10 # weight
+	1 # type
+	GasHiba 10 # weight
+	0 # type
+	GasHiba 10 # weight
+	1 # type
+	Bomb 10 # weight
+	0 # type
+	Bomb 10 # weight
+	1 # type
+	Hiba 10 # weight
+	1 # type
+	Bomb 10 # weight
+	1 # type
+	Kabuto 10 # weight
+	1 # type
+}
+# ItemInfo
+{
+	1 # num
+	kinoko 10 # weight
+}
+# GateInfo
+{
+	1 # num
+	gate 3000 # life
+	1 # weight
+}
+# CapInfo
+{
+	0 # num
+}
+# FloorInfo 
+{
+	{f000} 4 2 # CurrentSublevelIndex
+	{f001} 4 2 # CurrentSublevelIndex
+	{f002} 4 7 # EntityTotal
+	{f003} 4 0 # TreasureTotal
+	{f004} 4 0 # GateTotal
+	{f005} 4 1 # RoomTotal
+	{f006} 4 0.12 # CorridorRatio
+	{f007} 4 0 # Geyser
+	{f008} -1 1_MAT_cent2_tsuchi.txt # UnitFile
+	{f009} -1 normal_light_lv0.ini # LightFile
+	{f00A} -1 none # Skybox
+	{f010} 4 0 # CloggedHole
+	{f011} 4 0 # Unknown
+	{f012} 4 0 # MusicType
+	{f013} 4 0 # SolidPlane
+	{f014} 4 50 # DeadEndTotal
+	{f015} 4 1 # Version
+	{f016} 4 0 # WaterwraithTimer
+	{f017} 4 0 # Seesaw
+	{_eof}
+# TekiInfo
+{
+	7 # num
+	Bomb 10 # weight
+	0 # type
+	ElecHiba 10 # weight
+	1 # type
+	Chappy 10 # weight
+	0 # type
+	Bomb 10 # weight
+	1 # type
+	Bomb 10 # weight
+	1 # type
+	Hiba 10 # weight
+	1 # type
+	Kabuto 10 # weight
+	0 # type
+}
+# ItemInfo
+{
+	0 # num
+}
+# GateInfo
+{
+	0 # num
+}
+# CapInfo
+{
+	0 # num
+}
+# FloorInfo 
+{
+	{f000} 4 3 # CurrentSublevelIndex
+	{f001} 4 3 # CurrentSublevelIndex
+	{f002} 4 3 # EntityTotal
+	{f003} 4 1 # TreasureTotal
+	{f004} 4 0 # GateTotal
+	{f005} 4 1 # RoomTotal
+	{f006} 4 0.12 # CorridorRatio
+	{f007} 4 0 # Geyser
+	{f008} -1 1_MAT_danh_conc.txt # UnitFile
+	{f009} -1 normal_light_lv0.ini # LightFile
+	{f00A} -1 none # Skybox
+	{f010} 4 0 # CloggedHole
+	{f011} 4 0 # Unknown
+	{f012} 4 0 # MusicType
+	{f013} 4 0 # SolidPlane
+	{f014} 4 50 # DeadEndTotal
+	{f015} 4 1 # Version
+	{f016} 4 0 # WaterwraithTimer
+	{f017} 4 0 # Seesaw
+	{_eof}
+# TekiInfo
+{
+	3 # num
+	Bomb 10 # weight
+	0 # type
+	Chappy 10 # weight
+	0 # type
+	Hiba 10 # weight
+	0 # type
+}
+# ItemInfo
+{
+	1 # num
+	yoyo_yellow 10 # weight
+}
+# GateInfo
+{
+	0 # num
+}
+# CapInfo
+{
+	0 # num
+}
+# FloorInfo 
+{
+	{f000} 4 4 # CurrentSublevelIndex
+	{f001} 4 4 # CurrentSublevelIndex
+	{f002} 4 12 # EntityTotal
+	{f003} 4 1 # TreasureTotal
+	{f004} 4 1 # GateTotal
+	{f005} 4 1 # RoomTotal
+	{f006} 4 0.12 # CorridorRatio
+	{f007} 4 1 # Geyser
+	{f008} -1 1_ABE_vshit67_toy.txt # UnitFile
+	{f009} -1 normal_light_lv0.ini # LightFile
+	{f00A} -1 none # Skybox
+	{f010} 4 0 # CloggedHole
+	{f011} 4 0 # Unknown
+	{f012} 4 0 # MusicType
+	{f013} 4 0 # SolidPlane
+	{f014} 4 50 # DeadEndTotal
+	{f015} 4 1 # Version
+	{f016} 4 0 # WaterwraithTimer
+	{f017} 4 0 # Seesaw
+	{_eof}
+# TekiInfo
+{
+	12 # num
+	Hiba 10 # weight
+	1 # type
+	Frog 10 # weight
+	1 # type
+	GasHiba 10 # weight
+	0 # type
+	ElecHiba 10 # weight
+	0 # type
+	Hiba 10 # weight
+	1 # type
+	Kabuto 10 # weight
+	0 # type
+	GasHiba 10 # weight
+	1 # type
+	ElecHiba 10 # weight
+	1 # type
+	Bomb 10 # weight
+	0 # type
+	Chappy 10 # weight
+	0 # type
+	Chappy 10 # weight
+	0 # type
+	Frog 10 # weight
+	0 # type
+}
+# ItemInfo
+{
+	1 # num
+	milk_cap 10 # weight
+}
+# GateInfo
+{
+	1 # num
+	gate 3000 # life
+	1 # weight
+}
+# CapInfo
+{
+	0 # num
+}
